@@ -7,7 +7,7 @@ ghc-version: "9.4.3"
 # supported by the most recent cabal-install and Stack releases.
 cabal-format-version: "3.0"
 
-# Constraints for brand new builds
+    # Constraints for brand new builds
 packages:
 
     "Eric Schorn <eric.schorn@nccgroup.com> @eric-schorn":
